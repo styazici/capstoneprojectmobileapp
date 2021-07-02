@@ -8,15 +8,37 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo-google-fonts/inter": "^0.1.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/bottom-tabs": "^5.11.11",
+    "@react-navigation/native": "^5.9.3",
+    "@react-navigation/stack": "^5.14.3",
     "expo": "~40.0.0",
+    "expo-font": "^8.4.0",
     "expo-status-bar": "~1.0.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-hook-google-maps": "0.0.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-chat-images": "^1.0.1",
+    "react-native-form-generator": "^0.9.9",
+    "react-native-gesture-handler": "~1.8.0",
+    "react-native-image-pan-zoom": "^2.1.12",
+    "react-native-image-view": "^2.1.9",
+    "react-native-ionicons": "^4.6.5",
+    "react-native-paper": "^4.8.1",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-safe-area-context": "3.1.9",
+    "react-native-screens": "~2.15.2",
+    "react-native-stopwatch-timer": "0.0.21",
+    "react-native-web": "~0.13.12",
+    "react-native-webview": "^11.4.4",
+    "react-native-youtube-iframe": "^2.0.1",
+    "undefined": "@expo-google-fonts/erica+one"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
+    "@babel/core": "~7.9.0",
+    "prettier": "2.2.1"
   },
   "private": true
 }
