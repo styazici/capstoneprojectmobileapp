@@ -1,6 +1,6 @@
 # forearmtrainer mobile application (Capstone Project)
 The aim of the project is to design a forearm trainer for climbers that helps building muscle strength in the forearm and preventing injury.
-Software Engineers' Responsbility: develop a mobile app with functional characteristics to simultaneously visualise muscle performance.
+Software Engineers' Responsibility: develop a mobile app with functional characteristics to simultaneously visualise muscle performance.
 
 - The application developed via React Native Framework ( javascript ).
 - React, Material Kit, React-Navigation, React-Nativa-Paper, Image-Pan-Zoom are the 5 main libraries that have been used.
